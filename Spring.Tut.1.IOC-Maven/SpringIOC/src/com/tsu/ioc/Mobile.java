@@ -12,7 +12,7 @@ public class Mobile {
 	//	sim.calling();
 	//	sim.data();
 
-		ApplicationContext myAppC =ApplicationContext new XmlReaderContext();
+		
 	}
 
 }
